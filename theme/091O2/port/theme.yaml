@@ -67,7 +67,7 @@ preset_keyboards:
       - {click: k, label: K, swipe_up:  '"'}
       - {click: l, label: L, swipe_up: "'"}
       - {width: 5}
-      - {click: Shift, width: 13}
+      - {click: Shift, width: 12}
       # - {width: 1}
       - {click: z, label: Z, swipe_up: "`"}
       - {click: x, label: X, swipe_up:  "?"}
@@ -75,10 +75,10 @@ preset_keyboards:
       - {click: v, label: V, swipe_up: piaoFull}
       - {click: b, label: B, swipe_up:  "@"}
       - {click: n, label: N, swipe_up:  dunFull}
-      - {click: m, label: M, swipe_up:  ":"}
+      - {click: m, label: M, swipe_up:  ":", width: 12}
       # - {width: 1}
       # - {click: ",", label: "三", width: 10}
-      - {click: BackSpace, width: 17}
+      - {click: BackSpace, width: 16}
       - {click: number, width: 12}
       - {click: english, width: 12}
       - {click: ",", label: "③", swipe_up: "，", width: 18}
