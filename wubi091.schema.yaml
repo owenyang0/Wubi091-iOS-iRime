@@ -10,7 +10,7 @@ schema:
   description: |
     五笔字形 091 - 基于点儿词库 2022春 - 木易整理
   dependencies:
-#    - pinyin_simp
+
 
 switches:
 #  - name: ascii_mode
