@@ -13882,10 +13882,8 @@ CAD	cad
 驱走	cakg
 戏唱	cakj
 Ctrl+Alt+	cal
-$X[计算器]calc	cal
 双黄连	cal
 戏里	cala
-$X[计算器]calc	calc
 驱车	calg
 通勤车	calg
 双黄连口服液	cali
@@ -16367,7 +16365,6 @@ CLTC工况	cltu
 难分难舍	cmcw
 Cmd	cmd
 Command	cmd
-$X[命令提示符]cmd	cmd
 ⌘A	cmda
 Command+A	cmda
 ⌘B	cmdb
@@ -17292,7 +17289,6 @@ Control	conl
 鰼	conr
 骗局	cons
 ⌃	cont
-$X[控制面板]control.exe	cont
 䲎	cont
 騛	conu
 駃	conw
@@ -19730,7 +19726,6 @@ D区	dar
 犬牙相制	dasr
 春节期间	dasu
 大萧条	dat
-$y年$m月$d日	dat
 硗	dat
 Database	data
 DataNode	data
@@ -23402,7 +23397,6 @@ DIP开关	dipu
 大染缸	dirm
 破洞牛仔裤	dirp
 大海捞针	dirq
-$X[极点目录]%freeime%	dirr
 䃯	dirs
 耗失	dirw
 感觉损失了一个亿	dirw
@@ -35016,7 +35010,6 @@ E人E本	ewes
 服从调剂	ewyy
 脂	ex
 Excel	ex
-$X[打开Excel]excel	ex
 奚落	exa
 奚落	exai
 膱	exay
@@ -35026,7 +35019,6 @@ $X[打开Excel]excel	ex
 有线耳机	exbs
 有经验	exc
 Excel	exc
-$X[打开Excel]excel	exc
 有经验	excw
 奚	exd
 胆结石	exd
@@ -64876,7 +64868,6 @@ https协议	htty
 🥟	hu
 止疼药	hua
 止痛药	hua
-$X[画图]mspaint	hua
 賤	huaa
 贎	huac
 䝸	huac
@@ -64886,7 +64877,6 @@ $X[画图]mspaint	hua
 蠈	huaj
 街头巷尾	huan
 上半区	huar
-$X[画图]mspaint	huat
 䞁	huav
 止疼药	huax
 止痛药	huax
@@ -82553,7 +82543,6 @@ JS	js
 螺杆菌	jsal
 日本东京	jsay
 日本队	jsb
-$X[记事本]notepad	jsb
 星子	jsbb
 星际	jsbl
 晒出	jsbm
@@ -82737,7 +82726,6 @@ json	json
 归根究底	jspo
 照本宣科	jspt
 星宿	jspw
-$X[计算器]calc	jsq
 星钻	jsqh
 星象	jsqj
 晒裂	jsqj
@@ -92214,8 +92202,6 @@ K关键帧	kuqm
 嗰个	kwwh
 中华传统美德	kwwh
 中华人民共和国宪法	kwwi
-鄙人何德何能，竟能享受娱乐明星般的待遇	kwwj
-鄙人何德何能，竟能享受娱乐明星般的待遇，哈哈	kwwk
 中华人民共和国	kwwl
 🇨🇳	kwwl
 中华人民共和国万岁，世界人民大团结万岁	kwwm
@@ -92351,7 +92337,6 @@ K关键帧	kuqm
 吸引力	kxln
 呦	kxlt
 超级加倍	kxlw
-$X[控制面板]control.exe	kxm
 超级市场	kxmf
 㖰	kxmk
 哛	kxmv
@@ -103010,10 +102995,8 @@ mlgb	mlgb
 㸘	mlsj
 贫困生	mlst
 购置税	mlt
-$X[命令提示符]cmd	mlt
 迪迦奥特曼	mltj
 公路自行车	mltl
-$X[命令提示符]cmd	mlts
 购置税	mltu
 赠答	mltw
 崭新	mlu
@@ -104707,7 +104690,6 @@ MSN	msn
 枣庄	mso
 枣庄	msof
 枣糕	msou
-$X[画图]mspaint	msp
 丹顶鹤	msp
 刺穿	mspa
 分配方式	mspa
@@ -110743,7 +110725,6 @@ NoSQL数据库	noso
 NoSQL	nosq
 必要	nosv
 Note	not
-$X[记事本]notepad	not
 Notability	not
 Notability	nota
 懡	notc
@@ -110773,7 +110754,6 @@ Novanewstar	nova
 心灵	novi
 Novanewstar	novr
 惊爆价	now
-$y年$m月$d日 $W $0h:$0mi:$0s	now
 No way	nowa
 屡创	nowb
 必做	nowd
@@ -118090,7 +118070,6 @@ Option+Shift+Command+	oscl
 魔术师	osjm
 床照	osjv
 灯影	osjy
-$X[屏幕键盘]osk	osk
 福斯特	osk
 麻醉品	osk
 福斯特	oskf
@@ -120309,7 +120288,6 @@ PageUp	pagu
 空虚	paho
 空饷	paht
 π	pai
-$X[画图]mspaint	pai
 空港	paia
 空濛	paia
 差池	paib
@@ -123811,7 +123789,6 @@ PM2.5	pmfg
 宝贝，早呀	pmjk
 宝贝早呀	pmjk
 宝贝，晚安	pmjp
-$X[屏幕键盘]osk	pmjp
 裕	pmk
 羊肉串	pmk
 赛特	pmkf
@@ -124961,7 +124938,6 @@ PPPoE	pppo
 之术	ppsy
 ppt	ppt
 PPT	ppt
-$X[打开PPT]powerpnt	ppt
 之长	ppta
 寝室长	ppta
 之私	pptc
@@ -147996,7 +147972,6 @@ Ruby	ruby
 泉州市	rymi
 抚州市	rymi
 扬州市	rymi
-$X[任意目录]C:\jdtest	ryml
 扬州八怪	rymn
 抗风	rymr
 的记忆	ryn
@@ -148660,7 +148635,6 @@ SB	sb
 进出境	sbfx
 档子事	sbg
 杨丞琳	sbg
-$X[设备管理器]devmgmt.msc	sbg
 极刑	sbga
 极致	sbgc
 极至	sbgc
@@ -148673,7 +148647,6 @@ $X[设备管理器]devmgmt.msc	sbg
 极不	sbgi
 木耳再无回粉时	sbgj
 档子事	sbgk
-$X[设备管理器]devmgmt.msc	sbgl
 李现	sbgm
 极严	sbgo
 李敖	sbgq
@@ -160991,7 +160964,6 @@ TikTok	tikt
 科学界	tilw
 长沙市	tim
 TIM	tim
-$0h:$0mi:$0s	tim
 乱港分子	timb
 条幅	timh
 千兆网卡	timh
@@ -165924,7 +165896,6 @@ Twitter	twit
 每根	txsv
 敏	txt
 科幻片	txt
-$X[记事本]notepad	txt
 每季	txtb
 鳘	txtc
 繁乱	txtd
@@ -184176,9 +184147,7 @@ WeChat	wect
 使用寿命	wedw
 你胸太小不要讲话	wedy
 你胸太小不要说话	wedy
-$W	wee
 毹	wee
-$w	wee
 仍须	weed
 仍有	weeg
 倗	weeg
@@ -188689,7 +188658,6 @@ WNBA	wnba
 偏锋	woqt
 人类的	wor
 Word	wor
-$X[打开Word]winword	wor
 修业年限	worb
 偏振	word
 WordPress	word
@@ -208193,7 +208161,6 @@ Z世代	zawa
 /踩	zca
 [弱]	zca
 Ctrl+Alt+Delete	zca
-$X[注册表]regedit	zcb
 /菜刀	zcd
 [菜刀]	zcd
 /颤抖	zcd
