@@ -13,7 +13,12 @@
 
 更多功能等你发现。
 
-## 二、输入法外观
+## 二、操作演示
+支持拼音反查
+
+<img width="330" src="https://raw.githubusercontent.com/owenyang0/Wubi091-iOS-iRime/main/imgs/%E6%8B%BC%E9%9F%B3%E5%8F%8D%E6%9F%A5%E6%BC%94%E7%A4%BA.gif">
+
+## 三、输入法外观
 
 __091O1__
 
@@ -24,12 +29,11 @@ __091O2__
 <img width="330" alt="091O2主题截图" src="https://raw.githubusercontent.com/owenyang0/Wubi091-iOS-iRime/main/imgs/091O2.jpeg">
 
 
-## 三、操作演示
-支持拼音反查
-
-<img width="330" src="https://raw.githubusercontent.com/owenyang0/Wubi091-iOS-iRime/main/imgs/%E6%8B%BC%E9%9F%B3%E5%8F%8D%E6%9F%A5%E6%BC%94%E7%A4%BA.gif">
-
 ## 四、安装
+1. 在苹果商店下载`iRime输入法`
+2. 点开iRime输入法，选择`电脑快传`，按照后面打开页面的要求，在电脑浏览器中打开所列网址，手机和电脑需在同一局域网下，手机端不得退出联网界面
+3. 删除所有和本压缩包内文件同名的文件，上传本压缩包内的所有文件（如果同名文件未删除，则上传本包内的文件不会覆盖旧文件，而是新建了一个改名文件存在，达不到替换的作用）
+4. 部署后，在`选择方案`中选择`木易091三重选v2`，在`主题`中选择`091の五笔`，即可使用，完成后键盘如上图表示挂接成功
 
 ## 五、其它相关链接
 
