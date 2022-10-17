@@ -1,0 +1,4 @@
+patch:
+    schema_list:
+        - schema: wubi091
+        - schema: pinyin_simp

@@ -1,0 +1,37 @@
+patch:
+  style:
+    candidate_font_color: '0x020202'
+    inline_preedited_text_font_size: 40
+    common_preedited_text_font_size: 14
+    numberboard_font_size: 24
+    candidate_height_font_color: '0x1181FC'
+    candidate_font_size: 20
+  app_setting:
+    is_insert_symbol_auto_insert_candiate: true
+    candidate_tool_bar_is_show_emoji: 0
+    is_text_replacement_on: false
+    candidate_preedit_type: 3
+    impact_feedback_style: UIImpactFeedbackStyleLight
+    keyboard_type: 0
+    is_open_word_association: false
+    is_open_host_app: false
+    monitor_paste: 1
+    play_key_voice: false
+    is_show_select_input_icon: true
+    is_custom_key_font: true
+    portrait_keyboard_height_offset: 0
+    space_swipe_to_move: true
+    theme_name: 091O2
+    candidate_tool_bar_is_show_pasteboard: 0
+    play_key_voice_name: default.caf
+    swipe_upper_to_rime: true
+    is_show_candidate_comment: true
+    candidate_tool_bar_is_show_schema_switcher: 0
+    is_hide_mode_change: true
+    play_key_voice_volume: 0.5
+    candidate_comment_type: 1
+    impact_feedback: true
+    is_show_pop: true
+    is_autom_fill_symbol: false
+    display_upper_text: true
+    current_chinese_type: 0
