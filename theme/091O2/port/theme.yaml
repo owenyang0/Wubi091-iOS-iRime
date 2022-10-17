@@ -71,7 +71,7 @@ preset_keyboards:
       # - {width: 1}
       - {click: z, label: Z, swipe_up: "`"}
       - {click: x, label: X, swipe_up:  "?"}
-      - {click: c, label: C, swipe_up: ","}
+      - {click: c, label: C, swipe_up: commaHalf}
       - {click: v, label: V, swipe_up: piaoFull}
       - {click: b, label: B, swipe_up:  "@"}
       - {click: n, label: N, swipe_up:  dunFull}
@@ -81,10 +81,10 @@ preset_keyboards:
       - {click: BackSpace, width: 17}
       - {click: number, width: 12}
       - {click: english, width: 12}
-      - {click: ",", label: " 三/，", width: 18}
+      - {click: ",", label: "③", swipe_up: "，", width: 18}
       - {click: space, width: 24}
       # - {click: ",", label: " ，", width: 14}
-      - {click: ".", label: " 次/。", swipe_up: semicolon, width: 18}
+      - {click: ".", label: "②", swipe_up: "。", width: 18}
       - {click: Return, width: 16}
     name: "默认键盘"
     width: 10
@@ -255,6 +255,8 @@ preset_keys:
   quotationMarkHalf１: {label: "\"", text: "\"{DefaultKeyboard}"} 
   quotationMarkHalf2: {label: "\"", text: "“”{Left}"} 
   quotationMarkFull１: {label: "\"", text: "＂{DefaultKeyboard}"} 
+  Cixuan: {label: 次选, send: 2}
+  Sanxuan: {label: 三选, send: 3}
   #左右移动光标
   commit←: {label: "←", text: "{Left}"}
   commit→: {label: "→", text: "{Right}"}

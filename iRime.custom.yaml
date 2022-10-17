@@ -11,7 +11,7 @@ patch:
     candidate_tool_bar_is_show_emoji: 0
     is_text_replacement_on: false
     candidate_preedit_type: 3
-    impact_feedback_style: UIImpactFeedbackStyleLight
+    impact_feedback_style: "UIImpactFeedbackStyleLight"
     keyboard_type: 0
     is_open_word_association: false
     is_open_host_app: false
@@ -23,7 +23,7 @@ patch:
     space_swipe_to_move: true
     theme_name: 091O2
     candidate_tool_bar_is_show_pasteboard: 0
-    play_key_voice_name: default.caf
+    play_key_voice_name: "default.caf"
     swipe_upper_to_rime: true
     is_show_candidate_comment: true
     candidate_tool_bar_is_show_schema_switcher: 0
